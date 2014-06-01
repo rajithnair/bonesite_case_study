@@ -8,11 +8,11 @@ INFORMATION ON THE REPOSITORY FILES
 
 bonesite-pharma-business-case.pdf : This pdf file describes the case-study and the associated tasks
 
-The Data folder contains all the .csv files associated with the case study
+Data : This folder contains all the .csv files associated with the case study
 
-The Functions folder basically contains all the R Scripts.
+Functions : This folder basically contains all the R Scripts.
 
-Bonesite_Task.R : This is the main function which needs to be sourced in to run other scripts.
+Bonesite_Task.R : This is the main function which needs to be sourced in to run other functions.
 
 task1_new.R : This function evaluates the first task as mentioned in the case-study
 
