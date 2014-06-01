@@ -1,34 +1,27 @@
 Bonesite_Task<-function(){
   
-  download.file(destfile="CityNames.csv",url="https://github.com/rajithnair/bonesite_case_study/blob/master/Data/CityNames.csv")
-  download.file(destfile="FourHospitals.csv",url="https://github.com/rajithnair/bonesite_case_study/blob/master/Data/FourHospitals.csv")
-  download.file(destfile="Mapping.csv",url="https://github.com/rajithnair/bonesite_case_study/blob/master/Data/Mapping.csv")
-  download.file(destfile="TargetList-PrevYear.csv",url="https://github.com/rajithnair/bonesite_case_study/blob/master/Data/TargetList-PrevYear.csv")
-  download.file(destfile="Vesicle-Award.csv",url="https://github.com/rajithnair/bonesite_case_study/blob/master/Data/Vesicle-Award.csv")
-  download.file(destfile="Vesicle-Physician.csv",url="https://github.com/rajithnair/bonesite_case_study/blob/master/Data/Vesicle-Physician.csv")
+  list0<-read.csv("https://raw.githubusercontent.com/rajithnair/bonesite_case_study/master/Data/TargetList-PrevYear.csv",header=T,colClasses="character")
   
-  list0<-read.csv("TargetList-PrevYear.csv",header=T,colClasses="character")
-  
-  mapping<-read.csv("Mapping.csv",header=T,colClasses="character")
+  mapping<-read.csv("https://raw.githubusercontent.com/rajithnair/bonesite_case_study/master/Data/Mapping.csv",header=T,colClasses="character")
   
   suppressWarnings(eval_list<-merge(list0,mapping, by.x = "Physician_Id", by.y = "Bonesite_Id"))
   duplicate_index<-which(colnames(eval_list) == "Physician_Id")
   colnames(eval_list)[duplicate_index[2]]<-"Bonesite_Id" 
   
-  vesicle_physicians<-read.csv("Vesicle-Physician.csv",header=T,colClasses="character")
+  vesicle_physicians<-read.csv("https://raw.githubusercontent.com/rajithnair/bonesite_case_study/master/Data/Vesicle-Physician.csv",header=T,colClasses="character")
   
-  awardees<-read.csv("Vesicle-Award.csv",header=T,colClasses="character")
+  awardees<-read.csv("https://raw.githubusercontent.com/rajithnair/bonesite_case_study/master/Data/Vesicle-Award.csv",header=T,colClasses="character")
   
-  opera_physicians<-read.csv("FourHospitals.csv",header=T,colClasses="character")
+  opera_physicians<-read.csv("https://raw.githubusercontent.com/rajithnair/bonesite_case_study/master/Data/FourHospitals.csv",header=T,colClasses="character")
   
-  regions<-read.csv("CityNames.csv",header=T,colClasses="character")
+  regions<-read.csv("https://raw.githubusercontent.com/rajithnair/bonesite_case_study/master/Data/CityNames.csv",header=T,colClasses="character")
   
-  source("https://github.com/rajithnair/bonesite_case_study/blob/master/Functions/task1_new.R")
+  source("https://raw.githubusercontent.com/rajithnair/bonesite_case_study/master/Functions/task1_new.R")
   list1<-task1_new(eval_list,vesicle_physicians,mapping,awardees,opera_physicians,regions)
   View(list1)
   write.csv(list1,file ="List1.csv",row.names=F)
   
-  source("https://github.com/rajithnair/bonesite_case_study/blob/master/Functions/task2_new.R")
+  source("https://raw.githubusercontent.com/rajithnair/bonesite_case_study/master/Functions/task2_new.R")
   list2<-task2_new(eval_list,vesicle_physicians,mapping,awardees,opera_physicians,regions)
   View(list2)
   write.csv(list2,file ="List2.csv",row.names=F)

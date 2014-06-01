@@ -16,7 +16,7 @@ task2_new<-function(list2,vesicle_physicians,mapping,awardees,opera_physicians,r
   vesicle_data<-subset(vesicle_physicians, vesicle_physicians$Specialty %in% c("GP","Orthopedic"))
   
   list_index<-1 ### Index for the list2 data frame
-  source("https://github.com/rajithnair/bonesite_case_study/blob/master/Functions/replace_physician.R")
+  source("https://raw.githubusercontent.com/rajithnair/bonesite_case_study/master/Functions/replace_physician.R")
   
   ### Preparing List2 from vesicle physicians based on the popularity index
   for(i in 1:nrow(city_list)){
@@ -54,7 +54,7 @@ task2_new<-function(list2,vesicle_physicians,mapping,awardees,opera_physicians,r
     
   }
   
-  source("https://github.com/rajithnair/bonesite_case_study/blob/master/Functions/task1_new.R")
+  source("https://raw.githubusercontent.com/rajithnair/bonesite_case_study/master/Functions/task1_new.R")
   
   ### Sorting list2 in order to accomodate special promotions and extra calls for physicians from Opera Hospital
   list2<-task1_new(list2,vesicle_physicians,mapping,awardees,opera_physicians,regions)
