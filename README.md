@@ -3,7 +3,10 @@ Bonesite_Case_Study
 
 Repository created for submitting the Bonesite case study to White Capers
 
-bonesite-pharma-business-case.pdf : This pdf file describes the case-study and the tasks associated tasks
+
+INFORMATION ON THE REPOSITORY FILES
+
+bonesite-pharma-business-case.pdf : This pdf file describes the case-study and the associated tasks
 
 The Data folder contains all the .csv files associated with the case study
 
