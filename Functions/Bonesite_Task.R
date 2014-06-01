@@ -1,7 +1,12 @@
 Bonesite_Task<-function(){
   
-  setwd("D:/Rajith/Analytics/Task")
-
+  download.file(destfile="CityNames.csv",url="https://github.com/rajithnair/bonesite_case_study/blob/master/Data/CityNames.csv")
+  download.file(destfile="FourHospitals.csv",url="https://github.com/rajithnair/bonesite_case_study/blob/master/Data/FourHospitals.csv")
+  download.file(destfile="Mapping.csv",url="https://github.com/rajithnair/bonesite_case_study/blob/master/Data/Mapping.csv")
+  download.file(destfile="TargetList-PrevYear.csv",url="https://github.com/rajithnair/bonesite_case_study/blob/master/Data/TargetList-PrevYear.csv")
+  download.file(destfile="Vesicle-Award.csv",url="https://github.com/rajithnair/bonesite_case_study/blob/master/Data/Vesicle-Award.csv")
+  download.file(destfile="Vesicle-Physician.csv",url="https://github.com/rajithnair/bonesite_case_study/blob/master/Data/Vesicle-Physician.csv")
+  
   list0<-read.csv("TargetList-PrevYear.csv",header=T,colClasses="character")
   
   mapping<-read.csv("Mapping.csv",header=T,colClasses="character")
@@ -18,12 +23,12 @@ Bonesite_Task<-function(){
   
   regions<-read.csv("CityNames.csv",header=T,colClasses="character")
   
-  source("task1_new.R")
+  source("https://github.com/rajithnair/bonesite_case_study/blob/master/Functions/task1_new.R")
   list1<-task1_new(eval_list,vesicle_physicians,mapping,awardees,opera_physicians,regions)
   View(list1)
   write.csv(list1,file ="List1.csv",row.names=F)
   
-  source("task2_new.R")
+  source("https://github.com/rajithnair/bonesite_case_study/blob/master/Functions/task2_new.R")
   list2<-task2_new(eval_list,vesicle_physicians,mapping,awardees,opera_physicians,regions)
   View(list2)
   write.csv(list2,file ="List2.csv",row.names=F)

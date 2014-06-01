@@ -23,7 +23,7 @@ task1_new<-function(list1,vesicle_physicians,mapping,awardees,opera_physicians,r
   vesicle_data<-subset(vesicle_physicians, ((vesicle_physicians$Physician_Id %in% list1$Bonesite_Id) & 
                                               !(vesicle_physicians$Physician_Id %in% awardees$Physician_Id)))
   
-  source("remove_physician.R")
+  source("https://github.com/rajithnair/bonesite_case_study/blob/master/Functions/remove_physician.R")
   
   ### MANIPULATING DATA IN ORDER TO ACCOMODATE PHYSICIANS WITH SPECIAL PROMO
   
