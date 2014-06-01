@@ -1,0 +1,455 @@
+Physician_Id,Physician First Name,Physician Second Name,City,Specialty,Popularity Index
+352781,Nikhil,Varma,Agra,GP,6.2
+482378,Rajeev,Bisht,Mumbai,ENT,6.5
+348858,Bhaskar,Mehra,Jabalpur,GP,8.3
+482168,Avinash,Gautam,Pune,GP,7.6
+587345,Divyanshi,,Faridabad,GP,6.9
+490153,O.Thomas,,Nagpur,GP,8.5
+527226,Shilpi,Singhal,Coimbatore,GP,8.9
+556482,Vivekanand,Thakur,Jaipur,GP,7.1
+375499,Jagdish,Lal,Hyderabad,Obstetrician,6.8
+377262,Vinod Kumar,Pant,Nagpur,ENT,6.3
+677876,Lawrence,Lakra,Delhi,Obstetrician,8.6
+429949,Karam,Singh,Ranchi,ENT,8.7
+435842,Jitender,Kumar,Vadodara,GP,7.5
+401174,Divya,Sharma,Mumbai,Neurologist,9.2
+568682,Praveen,,Visakhapatnam,GP,7.7
+384035,Bhavya,Bhardwaj,Lucknow,GP,7
+629381,Jai,Prakash,Dhanbad,GP,8.3
+668839,Bhuwan Chandra,Pathak,Thane,GP,8.4
+520275,Ravinder Jit,Singh,Mumbai,Surgeon,7.3
+574900,Partap Singh,Chauhan,Srinagar,Surgeon,8.8
+544229,Mamta,,Bangalore,GP,6.3
+674043,Jeevan Chand,Sharma,Jabalpur,Orthopedic,8.6
+603265,Geeta,Vohra,Nagpur,Orthopedic,7.1
+422989,Suresh Chandra,Kushwaha,Ghaziabad,GP,8.3
+659986,Neha,,Agra,GP,7
+354603,Vikram,Singh,Chennai,ENT,6.2
+489144,Nitasha,Buswal,Kanpur,GP,9.1
+421005,Prem,Kumar,Varanasi,GP,6.2
+420262,S,Bisht,Vadodara,Orthopedic,6.2
+593197,Kamal,Prakash,Indore,ENT,8.2
+628065,Swati,,Hyderabad,Neurologist,6.2
+492815,Jyoti,,Mumbai,ENT,9.1
+582632,Anoop Kumar,Verma,Chennai,GP,7.6
+428457,Malkeer,Chand,Jaipur,Obstetrician,6.2
+504100,Rama Shankar,Prasad,Vadodara,ENT,8.4
+623971,Anny,Thomas,Kanpur,Orthopedic,7.8
+366334,Poonam,Rawat,Allahabad,Orthopedic,7.2
+360513,Ravi,Prakash,Bangalore,ENT,8.7
+456846,M.Singhal,,Delhi,Obstetrician,7.4
+523543,Nisha,,Indore,GP,8.9
+581272,Om Prakash,Kushwaha,Kolkata,Neurologist,7.4
+626252,Ashok,Prasad,Chennai,Orthopedic,8.9
+521115,Rahul,Sunaria,Meerut,GP,8.2
+509398,Shalini,Uniyal,Dhanbad,ENT,9.2
+410100,Manjeet,Kaur,Delhi,Neurologist,7.2
+605585,Deep Narayan,Singh,Pune,GP,8.5
+581000,Gopinathan,,Nagpur,Surgeon,8.9
+504697,Victor,Kar,Nagpur,GP,8.3
+407194,Nidhi,Pant,Aurangabad,GP,6.7
+560020,Ashima,Suri,Ranchi,Orthopedic,6.9
+508470,Patras,Kerketta,Indore,GP,7.1
+525160,Brahm,Prakash,Ludhiana,Obstetrician,6.7
+547261,Dibyaranjan,Gouda,Coimbatore,Obstetrician,7.8
+655818,Vishal,,Allahabad,GP,7.2
+484109,S.,Rana,Ahmedabad,Orthopedic,6.5
+453998,Moti,Lal,Ranchi,Orthopedic,8.7
+455975,Pooja,,Lucknow,GP,7.7
+570035,Alka,Sharma,Vadodara,GP,8.8
+370770,Premlata,,Jaipur,Neurologist,8.6
+468250,Raj,Kumar,Pune,GP,7.8
+668827,Mamta,,Bangalore,Obstetrician,8.5
+661440,Ram,Kishan,Lucknow,GP,8.9
+455156,Shweta,Kumari,Delhi,Surgeon,7.8
+476532,Chauhan,,Nashik,GP,6.2
+622968,Mahadev,Prasad,Srinagar,GP,8
+419645,Sunder,Lal,Bangalore,ENT,7.8
+507319,Rajender,Singh,Thane,Obstetrician,7.5
+492903,Vir,Singh,Ahmedabad,GP,6.4
+404264,Krishan,Prakash,Kolkata,GP,9.3
+632989,Kamal,Saini,Hyderabad,GP,8.5
+658249,Dimple,Wadhwa,Delhi,Orthopedic,8.6
+410229,Dushyant Pratap,Singh,Amritsar,Surgeon,8.8
+518908,Hans,Raj,Agra,GP,8.1
+649989,Arun,Kumar,Bangalore,GP,8.4
+597321,Divesh,Kumar,Chennai,GP,7.9
+598118,Deepti,,Thane,Orthopedic,7
+383043,Raj,Kumar,Delhi,GP,7.6
+537700,Jitendra,Kumar,Jaipur,ENT,6.2
+588044,K.Shukla,,Ludhiana,GP,6.5
+504289,Kheema Nand,Pathak,Delhi,GP,7.6
+646349,Shiv Kumar,Sharma,Ranchi,Obstetrician,8.9
+583665,Pooja,Sehgal,Mumbai,GP,8.4
+519580,Shiv Murti,Saroj,Delhi,GP,9.3
+568122,Chiranji Lal,Kanojia,Coimbatore,GP,7.8
+555014,Varun,Bobal,Bangalore,GP,7.3
+526781,Michael,Xalxo,Lucknow,GP,7
+632336,Sanjeev,Kumar,Visakhapatnam,GP,6.7
+478269,Dharampal,Gupta,Lucknow,GP,8.6
+657475,Bishember Lal,Khanna,Ghaziabad,Orthopedic,9.2
+627117,Poonam,Shukla,Agra,GP,7.5
+548161,Neema,,Thane,GP,9.3
+474988,Sakshi,Rana,Meerut,GP,6.6
+663697,Savita,Pasricha,Nagpur,Neurologist,9.3
+401882,Pradeep Kumar,Asani,Bhopal,GP,9.1
+382587,Mangat,Ram,Hyderabad,Surgeon,7.1
+448987,Rameshwar Lal,Joshi,Delhi,Orthopedic,8
+557056,Deepika,Yadav,Aurangabad,GP,6.9
+574107,Rajender,Singh,Mumbai,Obstetrician,7.1
+645836,Pulak Kumar,Biswal,Ahmedabad,Surgeon,6.3
+617617,S.,Chauhan,Vadodara,Surgeon,9.2
+671922,Alka,Chanana,Coimbatore,GP,6.3
+596996,Fateh,Singh,Lucknow,Obstetrician,7.8
+527390,Bharat Bhushan,Choudhary,Varanasi,GP,6.7
+479457,Rishi,Prakash,Hyderabad,GP,8.3
+541928,Om,Parkash,Ludhiana,Obstetrician,6.4
+642601,Archana,,Bhopal,GP,6.8
+671944,Kanika,Anand,Jaipur,ENT,6.2
+469635,Kumar Shambhu,Dutt,Srinagar,GP,9
+443997,Ram Parvesh,Paswan,Mumbai,GP,9.1
+555926,Failan Chand,Joshi,Faridabad,Obstetrician,8.1
+420362,Ramesh,Kumar,Bhopal,ENT,8.3
+629048,Anil,Kumar,Chennai,Orthopedic,8.5
+566085,Nupur,Grover,Hyderabad,Orthopedic,8.3
+451500,Sunita,,Amritsar,GP,9.1
+468428,Pawan,Kumar,Coimbatore,Neurologist,9.2
+422942,Samiksha,Gaba,Chennai,GP,9
+643876,Pradeep Singh,Chauhan,Mumbai,GP,8.8
+646236,Omprakash,,Aurangabad,Orthopedic,8.3
+521885,Jitender,Sharma,Varanasi,GP,9.2
+471081,Sangeeta,,Ranchi,Orthopedic,7.4
+610197,Tej,Parkash,Dhanbad,Neurologist,7.2
+411196,Kumar,Gaurav,Agra,GP,9
+576165,Kunwar Pal,Singh,Ludhiana,GP,6.8
+616479,Mukesh,Yadav,Chennai,GP,6.7
+408581,Sheetal,Rani,Ahmedabad,GP,8.9
+365445,Gyan Chand,Kashyap,Nashik,GP,7.6
+421413,Hoti,Lal,Kolkata,Orthopedic,7.9
+651327,Rameshwar,Singh,Surat,Orthopedic,6.3
+479388,Gopal,Singh,Hyderabad,GP,9
+625679,Rakesh Kumar,Verma,Faridabad,GP,9.1
+593459,Neha,Sharma,Faridabad,Orthopedic,7.8
+496246,Ranbir,Singh,Chennai,GP,6.7
+651866,S.,Yadav,Chennai,Neurologist,6.5
+672971,Thakur Dass,Gaba,Hyderabad,GP,6.2
+450612,Pankaj,Chhabra,Agra,GP,6.2
+402391,Dharmender,Kumar,Kanpur,Surgeon,8.9
+482869,Pooja,Kanojia,Meerut,GP,8.3
+590754,Rajni,Bala,Rajkot,GP,6.5
+545934,Manju,Verma,Jabalpur,GP,7.8
+399959,Bhagwan,Dass,Ghaziabad,Orthopedic,9.1
+633896,Asha,Negi,Lucknow,ENT,7.8
+558608,Vijay,Arora,Bhopal,Orthopedic,6.7
+535458,Naveen,Kumar,Srinagar,Orthopedic,7.2
+577292,Ankush,Sachdeva,Allahabad,GP,6.8
+426207,Sonia,Kumari,Chennai,GP,9.2
+372800,Umesh,Choudhary,Thane,GP,8
+650260,S.,Seth,Hyderabad,ENT,6.3
+560866,Madhu,Bala,Nagpur,Obstetrician,9.2
+377351,Poonam,,Hyderabad,GP,8.1
+550636,Amit,Pawar,Ranchi,GP,9.3
+471507,K.Verma,,Varanasi,GP,7.6
+638109,Man,Mohan,Allahabad,GP,8
+432998,Aditi,Yadav,Rajkot,GP,6.6
+603286,Dhami,,Agra,GP,9.3
+357847,Harish,Tiwari,Amritsar,Obstetrician,7.3
+401938,Arun,Kumar,Coimbatore,Surgeon,8.8
+355773,Deepshikha,Goguvan,Varanasi,GP,7.3
+501587,Sudershana,,Meerut,GP,8.3
+510950,Ashok,Malhotra,Nashik,Orthopedic,7.4
+585324,Meeta,Ratra,Nagpur,Surgeon,8.3
+387979,Sachin,Kumar,Coimbatore,Orthopedic,6.9
+379866,Wasti Ram,Kohli,Jabalpur,GP,8.9
+429816,Babu,Pal,Kanpur,GP,8
+366121,L.Gnanavel,,Hyderabad,Orthopedic,8.2
+476412,Balbir,Singh,Allahabad,GP,8.2
+359233,Catherine Priscilla,Xalxo,Ahmedabad,GP,8.6
+670431,Basant,Sunaria,Rajkot,GP,8.6
+365440,Rajender,Singh,Hyderabad,GP,8.5
+425010,Jyoti,Yadav,Kolkata,Surgeon,7.8
+559752,Ishwar Singh,Yadav,Kanpur,GP,9.1
+379290,Vishal,Uppal,Pune,GP,8.9
+667661,Asha,Rawat,Hyderabad,GP,7.2
+372969,Sunil,,Chennai,GP,8
+612957,Thangngaihsang,Vaiphei,Chennai,GP,7.3
+476526,Poonam,,Nagpur,Orthopedic,7.5
+622939,Sidhu Ram,Choudhary,Allahabad,Orthopedic,7
+500188,Pawan,Singhania,Mumbai,GP,7.6
+464751,R.,Aggarwal,Ghaziabad,GP,8
+426721,Sanjeev,Kumar,Hyderabad,GP,7.4
+366955,Sant,Ram,Thane,GP,8.8
+346370,Dalip,Kumar,Nashik,ENT,7
+515637,Chainika,Bhugra,Amritsar,Obstetrician,8.1
+458683,Parvesh Kumar,Sachdeva,Bhopal,GP,6.2
+543988,K.,Pant,Nashik,GP,7
+407338,Puneet,Kashyap,Varanasi,GP,7.4
+668163,Santosh,,Pune,ENT,8.9
+416076,Ram,Sahai,Hyderabad,GP,7.9
+411549,Gaurav,Sharma,Ludhiana,GP,8.7
+361145,Nagina,Mahato,Amritsar,Obstetrician,7.2
+360981,Divya,Verma,Vadodara,GP,8.3
+405876,Geeta,,Hyderabad,GP,8.4
+637400,Rajeev,Kumar,Delhi,GP,6.9
+427707,Martin,Tigga,Ludhiana,Orthopedic,8
+464444,Deepak,Vohra,Vadodara,GP,6.4
+402096,Subhash Chand,Chopra,Ghaziabad,GP,7.4
+590251,Padmini,,Indore,GP,6.8
+602235,Sudesh,Kumar,Agra,ENT,6.4
+509069,Dixit,Panwar,Chennai,Orthopedic,9.2
+410549,Santosh,Kumar,Nagpur,GP,6.8
+534218,Abhinav Kumar,Seth,Srinagar,GP,8
+677233,Shyam,Singh,Bhopal,GP,7.2
+512770,Nand,Kishor,Meerut,GP,8.7
+586738,Ashok,,Delhi,GP,6.5
+404664,Parmanand,,Aurangabad,ENT,6.2
+600398,Amit,Chahal,Thane,ENT,8.2
+602053,Vijender,Sharma,Kanpur,GP,8.6
+637904,Sri,Niwas,Mumbai,GP,7.2
+380054,Prahlad,Singh,Hyderabad,GP,7.8
+355310,Ashraf,Karim,Mumbai,GP,8.3
+415933,Suresh,Kumar,Faridabad,Orthopedic,8.7
+559873,Manoj,Kumar,Hyderabad,Orthopedic,6.8
+506299,Shobha,Kumari,Hyderabad,GP,6.5
+516474,Anjali,Negi,Ranchi,Neurologist,9.1
+363661,Neeraj Kumar,Ratra,Faridabad,GP,7.6
+414185,Nupur,Sharma,Chennai,Surgeon,6.4
+393319,Sunil,Kohli,Hyderabad,ENT,8.3
+675259,Panna,Lal,Nashik,GP,9.2
+666205,Jagdish Chandra,Mehra,Coimbatore,ENT,7.3
+536154,Geeta,Joshi,Indore,GP,7.7
+643301,Kishor,Singhania,Faridabad,Surgeon,9.1
+518313,Kumari,Swati,Surat,GP,9.3
+407598,Pradeep,Bidani,Kolkata,Orthopedic,7.2
+374431,Kishor,Kumar,Aurangabad,GP,6.3
+664961,Devraj,Baweja,Amritsar,ENT,9
+473108,Kumar Vijay,Kant,Delhi,GP,8.7
+646503,Sonia,,Vadodara,GP,8.1
+530025,Neha,Sen,Bhopal,Orthopedic,8.8
+550998,Madhurima,Garg,Rajkot,Obstetrician,7.8
+356049,Rampal,,Vadodara,GP,7.4
+367383,Naresh,Kumar,Pune,GP,8.8
+580378,Heena,Raturi,Rajkot,GP,6.7
+603081,Yogita,,Kanpur,GP,9.1
+626820,Kalam,Singh,Faridabad,ENT,8
+640410,Rahul,Kumar,Mumbai,Orthopedic,7.7
+446491,Jai Singh,Rawat,Thane,Orthopedic,7.9
+654644,Suresh,Pal,Indore,Orthopedic,6.5
+622255,Ratan,Lal,Chennai,Orthopedic,8
+414358,Kunwar,,Srinagar,GP,6.5
+500506,Mubashreen,Ahmed,Srinagar,Neurologist,7.3
+562709,Ram,Kumar,Varanasi,GP,8
+655046,Pratibha,Gosain,Visakhapatnam,Neurologist,7.1
+536707,Mukesh Chandra,Soni,Rajkot,GP,7
+488895,Kumar Jagdish,Prakash,Nashik,Orthopedic,8.4
+655351,Vijay Kumar,Dogra,Faridabad,Surgeon,6.4
+595155,Vivek,Juyal,Indore,GP,9.3
+614666,Om,Prakash,Meerut,GP,8.5
+534728,Pramod,Kumar,Aurangabad,Surgeon,8
+435725,Girraj,Singh,Ludhiana,GP,8.1
+669061,Lalit,Bisht,Srinagar,GP,8.1
+662944,Neha,Sharma,Agra,GP,8.4
+650520,Zile,Singh,Varanasi,GP,6.3
+510422,Pannalal,Kar,Vadodara,GP,8.5
+425377,Manoj,Kumar,Ranchi,GP,7.4
+623100,Rajendra Kumar,Sharma,Chennai,Orthopedic,8.2
+673657,Islamuddin,,Pune,ENT,8.2
+545765,Sandeep,Kumar,Chennai,GP,8.4
+458843,Rajan,,Lucknow,Obstetrician,8.6
+475871,Hempal,Singh,Bangalore,GP,7.8
+584271,Hanish,Rajpal,Chennai,Surgeon,6.7
+532605,S.,Bobal,Meerut,ENT,6.8
+587913,Suman,,Aurangabad,Neurologist,9
+624878,Daulat,Ram,Ranchi,GP,7.5
+398147,Jyoti,Aggarwal,Bangalore,GP,8.3
+561552,Dinesh,Kushwaha,Visakhapatnam,Obstetrician,7.5
+494941,Amar,Singh,Thane,Neurologist,8.4
+639916,Kumar Ajay,Rohilla,Nagpur,GP,8.6
+470252,Seema,Rani,Bangalore,GP,7.3
+667926,Ved,Prakash,Lucknow,Surgeon,7.9
+502551,Varun,,Chennai,Orthopedic,7.7
+543452,Om,Prakash,Ranchi,GP,6.3
+605778,Parayya,Swami,Aurangabad,Surgeon,6.6
+550602,Richa,Bajaj,Varanasi,Orthopedic,8.3
+495125,Joginder,Suri,Ghaziabad,Neurologist,6.2
+574049,Madan,Mohan,Kolkata,GP,8.9
+561089,Virendra Nath,Lal,Chennai,Orthopedic,6.4
+435919,Indu,,Agra,Orthopedic,8.5
+410326,Jamna,Das,Faridabad,Orthopedic,6.3
+364958,Mahesh,Chand,Chennai,Surgeon,6.6
+359628,Shivani,,Mumbai,GP,9.2
+470128,Ritika,,Hyderabad,GP,7.5
+595339,Madan,Lal,Patna,Surgeon,6.9
+473794,Kumar Ram,Kishan,Surat,GP,7.3
+584393,Israr,Ahmed,Delhi,GP,8.4
+670677,Ashok,Kumar,Meerut,Orthopedic,7.3
+540405,Ramavtar,,Delhi,GP,9.1
+373188,Kamal,Bajaj,Rajkot,GP,6.4
+552820,Gunjan,Kaushik,Bhopal,Orthopedic,8.2
+540202,Vinod Kumar,Wadhwa,Meerut,GP,7.1
+410955,Rajni,Soni,Jaipur,GP,8.6
+543832,Kamal,Saxena,Chennai,GP,6.9
+352265,Bhagabat,Biswal,Ranchi,GP,8.5
+368201,Manmohan,,Ahmedabad,GP,8.4
+672483,Kapil,Chopra,Ludhiana,GP,9.2
+485549,Upica,Katiyar,Srinagar,GP,8.3
+622732,Sandeep,Choudhary,Vadodara,Surgeon,6.3
+669317,Kumar Krishan,Varma,Thane,Neurologist,9.1
+371931,Jai Lal,Gautam,Hyderabad,Orthopedic,9.2
+454087,Mohan Lal,Grover,Visakhapatnam,GP,9
+498263,Suresh,Grover,Thane,Orthopedic,8.8
+397694,Sunil Kumar,Sahani,Chennai,ENT,8.8
+421877,Vikas,Kumar,Jaipur,Orthopedic,8.3
+424397,Mohinder Pal,Bhatti,Mumbai,Obstetrician,8.3
+366212,Dinesh Kumar,Verma,Kolkata,Neurologist,8.6
+372470,Ram Lal,Chhabra,Chennai,GP,8.4
+597414,Dhananjay,Kumar,Ranchi,Orthopedic,8.7
+408277,Ashwani Kumar,Sharma,Jaipur,GP,6.2
+544141,Dharmendra Singh,Rawat,Bhopal,Orthopedic,6.4
+445157,Awinash,Chandra,Agra,Surgeon,9.3
+425307,Kumar Surendra,Kumar,Nagpur,GP,9
+432272,Pawan,Kumar,Indore,Surgeon,8
+643269,Anil,Kumar,Visakhapatnam,GP,7.8
+649664,Vandana,Verma,Rajkot,GP,8.3
+654941,Ishwar,Singh,Coimbatore,GP,7.6
+424914,Him,Kishore,Kolkata,GP,8.2
+432965,Jitender,Kumar,Mumbai,Orthopedic,8.8
+634016,Kali,Ram,Hyderabad,GP,6.7
+485426,Renuka,,Ghaziabad,Surgeon,9
+551923,Shilpi,Gochhwal,Meerut,GP,6.2
+579457,Sub Gajraj,Singh,Srinagar,GP,6.2
+588330,Ram,Chander,Ranchi,Obstetrician,7.2
+503161,Narender,Kumar,Allahabad,GP,9.1
+539978,Jyoti,Verma,Ahmedabad,Surgeon,6.5
+471015,Rohtash,,Jabalpur,Orthopedic,9.2
+538366,Virender Singh,Rawat,Kanpur,ENT,6.7
+563107,Ranjeet,Singh,Amritsar,GP,9.2
+492285,Hari,Kishan,Aurangabad,GP,7.8
+473021,Om,Prakash,Allahabad,Orthopedic,9.1
+547333,Sulekha,,Kolkata,ENT,9.2
+656633,Damodar,Gouda,Mumbai,GP,8.2
+418882,Shama,Gupta,Hyderabad,Neurologist,9
+415061,Aroma,Rajan,Jaipur,GP,7
+374261,Ajay Singh,Dhami,Nagpur,GP,8.4
+610042,Neharika,Saxena,Bangalore,Neurologist,7.1
+520416,Vijayta,Parchar,Rajkot,GP,6.4
+361644,G,Satya,Srinagar,Neurologist,6.4
+573123,Sudhir,Kumar,Bangalore,Orthopedic,9.3
+643296,Ompal,Singh,Varanasi,GP,8
+441521,Jaidev,Singh,Varanasi,GP,6.5
+390357,Harpreet,Kaur,Bangalore,GP,8.3
+615153,Mahavir,Singh,Aurangabad,Orthopedic,7.2
+432963,Kumar Jaspal,Singh,Visakhapatnam,GP,7.3
+670032,Jagdish Prasad,Juyal,Ahmedabad,Surgeon,6.8
+540171,Kashmir,Chand,Visakhapatnam,Obstetrician,7.3
+492701,Poonam,Yadav,Bangalore,GP,8.5
+448207,Satpal,Singh,Jaipur,GP,6.4
+369711,Anita,,Kolkata,Neurologist,7.2
+540166,Kumar Haukholam,Vaiphei,Srinagar,GP,9.2
+430715,Himanshi,Bidani,Indore,GP,7.5
+498746,Tilak,Raj,Vadodara,GP,7.9
+582961,Om,Prakash,Mumbai,Orthopedic,9.3
+493286,Pushpanjali,,Mumbai,Orthopedic,8.7
+511478,Nawal,Singh,Aurangabad,GP,8
+426801,Himani,Bhatti,Bangalore,ENT,8.4
+676495,Sanchari,Ray,Mumbai,GP,7.3
+423615,Rajkumar,,Indore,GP,6.4
+385867,Renu,Saroj,Meerut,GP,8
+353677,Prahlad,Singh,Ranchi,Neurologist,6.4
+513074,Kumar,Ram,Dhanbad,GP,6.5
+604635,Arvind Singh,Negi,Mumbai,GP,8.2
+636130,Piyush,Malik,Delhi,GP,8.7
+504251,Gokul,Prasad,Jabalpur,Neurologist,7.8
+638943,Musarrat,Karim,Ghaziabad,Neurologist,8.9
+504218,Lakhan,Lal,Chennai,GP,6.5
+593096,Taruna,Asani,Nagpur,GP,8.1
+580302,Ravindra Kumar,Sehrawat,Bangalore,GP,7.3
+371107,Rajendra,Singh,Faridabad,Orthopedic,8.1
+453508,Kure,Ram,Meerut,Surgeon,8.1
+460945,Savita,Swami,Nagpur,GP,7.3
+367366,Lokesh,Verma,Kolkata,Obstetrician,9.3
+629926,Ashok Kumar,Verma,Amritsar,Obstetrician,7.1
+497449,Paras,Malhotra,Rajkot,GP,8
+453917,Jyoti Swaroop,Chanana,Ranchi,GP,8.4
+574506,Ramesh,Chand,Ranchi,Orthopedic,6.2
+349871,L.,Kanaujia,Pune,GP,6.9
+449117,Kumar Jai,Bhagwan,Delhi,GP,8.9
+432654,Sharad Kumar,Srivastava,Nashik,Orthopedic,6.9
+401611,Vikas,Sharma,Hyderabad,GP,8.2
+483244,Prabhat,Chand,Dhanbad,Orthopedic,8
+451951,Ashok,Kumar,Chennai,GP,8.6
+548680,Manish,Verma,Thane,Orthopedic,6.6
+618609,Varinder,Kumar,Coimbatore,GP,7.7
+457980,Amit,Kumar,Chennai,Neurologist,7.8
+566116,Kumar Jai,Prakash,Ahmedabad,Neurologist,9
+594056,Uttam,Singh,Amritsar,GP,8.6
+654407,Ashish Kumar,Singh,Amritsar,ENT,8.7
+513444,Harish,Kumar,Chennai,Surgeon,8.1
+601996,Ramesh,Kumar,Bangalore,Neurologist,7.2
+660673,Jitendra,,Varanasi,Surgeon,6.6
+434039,Radhika,,Kolkata,GP,8.2
+632439,Duli,Chand,Agra,GP,7.4
+531963,Preeti,Pawar,Mumbai,Orthopedic,6.8
+402641,Shahabuddin,,Nashik,GP,8.5
+433708,Niket,Sharma,Srinagar,GP,7.9
+657433,Sita Ram,Verma,Delhi,Orthopedic,6.2
+525048,Kalpeshwar,Prasad,Pune,GP,8
+652726,Parveen,,Dhanbad,GP,7.1
+510814,Man,Singh,Varanasi,Orthopedic,7.2
+678153,Jaswant,Singh,Coimbatore,GP,7.3
+646956,Lokesh,Joshi,Surat,GP,8.9
+386950,Aruna,Gautam,Aurangabad,Orthopedic,8.6
+536512,Mohan,Kumar,Aurangabad,GP,6.7
+513239,Shanker,Lal,Delhi,GP,7.1
+491950,Aman,Arora,Pune,Orthopedic,6.3
+663752,Ashok,Sharma,Delhi,Obstetrician,8.4
+500158,Sumit,Kaushik,Mumbai,Orthopedic,9.1
+564527,Yogeshwar,Chand,Meerut,GP,7.4
+534621,Shilpa,Khanna,Patna,GP,7.7
+592976,Yukti,Rohilla,Delhi,Neurologist,9.1
+612791,Pyare,Lal,Nashik,ENT,9.2
+356330,Atul Kumar,Pasricha,Jaipur,ENT,7.7
+644151,Rohit,,Surat,GP,6.4
+451058,Ankit,Dogra,Jabalpur,GP,7.5
+579495,Summinder,,Delhi,GP,8.6
+597872,Mukta Rosalia,Tigga,Amritsar,Obstetrician,6.6
+597537,Sakshi,Choudhary,Chennai,GP,8.4
+637225,Sonia,,Bhopal,GP,6.7
+546385,Deepak,Pant,Kolkata,Obstetrician,8
+659733,Devika,,Jaipur,Orthopedic,7.2
+596597,Narendra Singh,Negi,Nagpur,Orthopedic,6.6
+625663,Geetika,Grover,Dhanbad,GP,7.4
+603094,Meenakshi,,Visakhapatnam,GP,8.5
+568182,Kavita,Saini,Delhi,Orthopedic,9.2
+523384,Kumar Prem,Nath,Hyderabad,GP,9
+629302,Anamika,,Jaipur,GP,7.9
+466957,Kunwar Pal,Singh,Delhi,ENT,8.2
+534901,Ashish,Sharma,Nashik,Orthopedic,7.7
+447703,Swaranlata,Kerketta,Mumbai,GP,7.5
+608576,Vinod,Tiwari,Hyderabad,Neurologist,9.2
+459170,Deepti,,Lucknow,Orthopedic,7.4
+658081,Vandana,,Mumbai,GP,9.1
+453111,Sanjeev,Kumar,Nagpur,ENT,6.8
+678593,Nishant,Kaushik,Mumbai,Orthopedic,9.2
+383091,Gaurav,Sharma,Hyderabad,Surgeon,7.4
+616864,Subhramanian,,Nashik,GP,7.3
+386108,Bijender,Kumar,Bangalore,Neurologist,6.9
+615978,Rachna,,Lucknow,Neurologist,6.6
+443398,Rohit,Sehrawat,Delhi,GP,9.1
+667911,Swapan Kumar,Ray,Hyderabad,GP,8.9
+555979,Dinesh,Gosain,Jaipur,GP,8
+495221,C.S.Negi,,Delhi,GP,9.1
+445567,Nijesh,Kumar,Allahabad,Obstetrician,7.1
+461930,Gaurav,Katoch,Faridabad,GP,6.2
+368699,Gulshan,Rajpal,Jaipur,Obstetrician,8.8
+403007,Girish,Kumar,Delhi,GP,6.7
+371993,Naveen Kumar,Kanojia,Hyderabad,Obstetrician,7.7
+465157,Rajender Singh,Rawat,Ranchi,Orthopedic,6.9
+542017,Radha,Chauhan,Agra,Surgeon,6.6
+358580,Mohan,Lal,Ranchi,Orthopedic,7.3
+420472,Sandeep,Kumar,Pune,GP,7.6
+513520,Mamta,Kumari,Bhopal,Neurologist,8.1
+531804,Kanchan Shalini,Lakra,Faridabad,Obstetrician,6.9
+660416,Deepa,,Varanasi,GP,6.2
+630981,Rajender,Singh,Lucknow,Orthopedic,8.6
+412868,Sheelvanti,Kumari,Dhanbad,Neurologist,7.2
