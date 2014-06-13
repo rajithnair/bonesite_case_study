@@ -54,15 +54,16 @@ Bonesite_Task<-function(){
   Revenue<-Revenue * 100
   
   ## Creating a data frame that will store the data that goes into Reported Values csv
-  output_table<- data.frame(matrix(nrow = 5, ncol = 2))
-  colnames(output_table)=c("Description","Values")
+  reported_values<- data.frame(matrix(nrow = 5, ncol = 2))
+  colnames(reported_values)=c("Description","Values")
   
-  output_table$Description<- c("Number of physicians with special promotion","Number of physicians working at Opera",
+  reported_values$Description<- c("Number of physicians with special promotion","Number of physicians working at Opera",
                                "Newly added physicians in List1","Number of physicians in List2",
                                "% Revenue Growth from using List2 instead of List1")
-  output_table$Values<-c(nrow(specially_promoted_physicians),nrow(physicians_opera),length(new_physicians),
+  reported_values$Values<-c(nrow(specially_promoted_physicians),nrow(physicians_opera),length(new_physicians),
                          nrow(list2),round(Revenue,2))
-  write.csv(output_table,file="Reported_Values.csv",row.names=F)
+  View(reported_values)
+  write.csv(reported_values,file="Reported_Values.csv",row.names=F)
   
   
   cat("\n### Please find three files in your working directory: ###\n\nList1.csv: This file contains List1\n\nList2.csv: This file contains List2\n\nReported_Values.csv: This file answers all the reported questions in the case-study pdf\n\n")
